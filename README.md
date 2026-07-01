@@ -1,10 +1,10 @@
 # Hi, I'm Mina 👋
 
-🎓 M.Sc. Student in Data Science at the University of Naples Federico II
-🔥 Passionate about building data-driven and software solutions that solve real-world problems.
-🔭 Currently looking for internship and junior opportunities in Data Science, AI, and Software Development.
+- 🎓 M.Sc. Student in Data Science at the University of Naples Federico II
+- 🔥 Passionate about building data-driven and software solutions that solve real-world problems.
+- 🔭 Currently looking for internship and junior opportunities in Data Science, AI, and Software Development.
 
-I have academic backgrounds in Mathematics and Financial Mathematics, with hands-on experience in data science projects involving machine learning, computer vision, NLP, time series analysis, and web development.
+- I have academic backgrounds in Mathematics and Financial Mathematics, with hands-on experience in data science projects involving machine learning, computer vision, NLP, time series analysis, and web development.
 
 ## 💻 Technical Skills
 
