@@ -91,12 +91,14 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## 🗣️ Languages
 
-Persian   🟩🟩🟩🟩🟩🟩<br>
-English   🟩🟩🟩🟩🟩⬜<br>
-Italian   🟩🟩🟩⬜⬜⬜<br>
-Turkish   🟩⬜⬜⬜⬜⬜<br>
-Japanese  🟩⬜⬜⬜⬜⬜<br>
-Norwegian 🟩⬜⬜⬜⬜⬜<br>
+```text
+Persian    🟩🟩🟩🟩🟩🟩
+English    🟩🟩🟩🟩🟩⬜
+Italian    🟩🟩🟩⬜⬜⬜
+Turkish    🟩⬜⬜⬜⬜⬜
+Japanese   🟩⬜⬜⬜⬜⬜
+Norwegian  🟩⬜⬜⬜⬜⬜
+```
 
 
 ## 📫 Connect with Me
