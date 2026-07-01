@@ -1,42 +1,55 @@
 # Hi, I'm Mina 👋
 
-🎓 Master's Student in Data Science at the University of Naples Federico II
+🎓 M.Sc. Student in Data Science at the University of Naples Federico II
+🔥 Passionate about building data-driven and software solutions that solve real-world problems.
+🔭 Currently looking for internship and junior opportunities in Data Science, AI, and Software Development.
 
-I have academic backgrounds in **Mathematics** and **Financial Mathematics**, with a strong interest in **Data Science**, **Machine Learning**, **Data Engineering**, and **Software Development**.
+I have academic backgrounds in Mathematics and Financial Mathematics, with hands-on experience in data science projects involving machine learning, computer vision, NLP, time series analysis, and web development.
 
 ## 💻 Technical Skills
 
-• JavaScript
-• Python
-• SQL
-• R
-• React
-• HTML
-• CSS
-• Node.js
-• Machine Learning
-• Natural Language Processing (NLP)
-• Time Series Analysis
-• Data Mining
-• Statistical Analysis
-• Generative AI
-• MySQL
-• Power BI
-• Apache Spark
-• NumPy & SciPy
-• Matplotlib
-• Scikit-learn
-• OpenCV
-• YOLOv8
-• Pandas
-• Microsoft (Excel, PowerPoint, …)
-• Git & GitHub
-• Netlify
-• VS Code
-• Godot Engine (for game development)
+**Programming Languages**
+- Python
+- JavaScript
+- SQL
+- R
 
+**Web Development**
+- React
+- HTML
+- CSS
+- Node.js
 
-## Projects Related to Data Science
+**Data Science & AI**
+- Machine Learning
+- Natural Language Processing (NLP)
+- Time Series Analysis
+- Data Mining
+- Statistical Analysis
+- Generative AI
+
+**Libraries & Tools**
+- Pandas
+- NumPy
+- SciPy
+- Scikit-learn
+- OpenCV
+- YOLOv8
+- Apache Spark
+- Power BI
+- Matplotlib
+
+**Databases**
+- MySQL
+
+**Development Tools**
+- VS Code
+- Netlify
+
+**Other**
+- Godot Engine (Game Development)
+
+## Featured Data Science Projec
 
 - 📊 AIFA Medicine Data Engineering
 - 💧 Smart Water Management
@@ -45,7 +58,7 @@ I have academic backgrounds in **Mathematics** and **Financial Mathematics**, wi
 - 🐟 Aquarium Object Detection
 
 
-## Projects Related to Web Development
+## Featured Software Projects
 
 -  🪙 Cryptocurrency Market Tracker
 -  🎮 Games Library
@@ -68,24 +81,24 @@ I have academic backgrounds in **Mathematics** and **Financial Mathematics**, wi
 ## 🎯 Interests
 
 - Artificial Intelligence
+- Data Science
 - Software Development
 - Game Development
 - Fitness
 - Guitar
-- language learning
+- Language Learning
 
 
-## 🎯 Languages
+## 🗣️ Languages
 
-Persian  🟩🟩🟩🟩🟩🟩
-English  🟩🟩🟩🟩🟩⬜
-Italian  🟩🟩🟩⬜⬜⬜
-Turkish  🟩⬜⬜⬜⬜⬜
-Japanese 🟩⬜⬜⬜⬜⬜
-Norwegia 🟩⬜⬜⬜⬜⬜
+Persian   🟩🟩🟩🟩🟩🟩
+English   🟩🟩🟩🟩🟩⬜
+Italian   🟩🟩🟩⬜⬜⬜
+Turkish   🟩⬜⬜⬜⬜⬜
+Japanese  🟩⬜⬜⬜⬜⬜
+Norwegian 🟩⬜⬜⬜⬜⬜
 
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/Miniii-git
 - mroostpoor@gmail.com
