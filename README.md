@@ -1,4 +1,6 @@
-<img width="1807" height="870" alt="ChatGPT Image Jul 2, 2026, 02_19_21 AM" src="https://github.com/user-attachments/assets/ecafbafa-caa6-48ae-92d7-6b4a4633fbcd" />
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 
 
 # Hi, I'm Mina 👋
