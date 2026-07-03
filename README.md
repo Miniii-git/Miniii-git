@@ -11,7 +11,7 @@
 
 I have academic backgrounds in Mathematics and Financial Mathematics, with hands-on experience in data science projects involving machine learning, computer vision, NLP, time series analysis, and web development.
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Programming Languages**
 - Python
@@ -76,14 +76,14 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 -  📝 ToDo  App
 
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning
 - AI Applications
 - Software Engineering
 - Italian 🇮🇹
 
-## 🎯 Interests
+## Interests
 
 - Artificial Intelligence
 - Data Science
@@ -94,7 +94,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 - Language Learning
 
 
-## 🗣️ Languages
+## Languages
 
 ```text
 Persian    🟩🟩🟩🟩🟩🟩
