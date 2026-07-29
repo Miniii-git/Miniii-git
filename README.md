@@ -58,6 +58,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 ## Featured Data Science Projec
 
 - 🩺 AIFA Medicine Data Engineering
+- 🌫️ Air Quality Forecasting With Dashboard
 - 💧 Smart Water Management
 - 🧠 Twitter Sentiment Analysis
 - 🦴 Osteoporosis Risk Prediction
