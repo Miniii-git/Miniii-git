@@ -5,8 +5,8 @@
 
 # Hi, I'm Mina 👋
 
-🎓 M.Sc. Student in Data Science at the University of Naples Federico II<br>
-📐 Academic background in Mathematics, including an M.Sc. in Financial Mathematics and a B.Sc. in Mathematics<br>
+🎓 M.Sc. Student in Data Science at the University of Naples Federico II <br>
+📐 Academic background in Mathematics, including an M.Sc. in Financial Mathematics and a B.Sc. in Mathematics <br>
 🔥 Passionate about building data-driven and software solutions that solve real-world problems<br>
 🔭 Currently looking for internship and junior opportunities in Data Science, AI, and Software Development<br>
 
