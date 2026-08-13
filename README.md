@@ -77,7 +77,6 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 -  📝 ToDo  App
 
-
 ## Currently Learning
 
 - Advanced Machine Learning
