@@ -3,7 +3,7 @@
 </p>
 
 
-# Hi, I'm Mina 👋
+# Hi, I'm Mina  👋
 
 🎓 M.Sc. Student in Data Science at the University of Naples Federico II <br>
 📐 Academic background in Mathematics, including an M.Sc. in Financial Mathematics and a B.Sc. in Mathematics <br>
