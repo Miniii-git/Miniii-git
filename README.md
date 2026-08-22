@@ -107,7 +107,7 @@ Norwegian  🟪⬜⬜⬜⬜⬜
 ```
 
 
-## 📫 Connect with Me
+##  Connect with Me
 
 ✉️ mroostpoor@gmail.com
 
