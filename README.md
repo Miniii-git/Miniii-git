@@ -110,6 +110,8 @@ Norwegian  🟪⬜⬜⬜⬜⬜
 ## 📫 Connect with Me
 
 ✉️ mroostpoor@gmail.com
-[-](https://icons8.com/icon/13930/linkedin) https://www.linkedin.com/in/mina-roostapour-d/
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+</a> https://www.linkedin.com/in/mina-roostapour-d/
 
   
