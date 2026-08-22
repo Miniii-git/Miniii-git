@@ -112,5 +112,5 @@ Norwegian  🟪⬜⬜⬜⬜⬜
 ✉️ mroostpoor@gmail.com
 
 
-<img src="icons8-linkedin.svg" width="20" > <a href="https://www.linkedin.com/in/mina-roostapour-d/">mina-roostapour-d</a>
+ <a href="https://www.linkedin.com/in/mina-roostapour-d/"> <img src="icons8-linkedin.svg" width="20" > mina-roostapour-d</a>
   
