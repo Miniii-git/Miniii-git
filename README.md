@@ -109,6 +109,7 @@ Norwegian  🟪⬜⬜⬜⬜⬜
 
 ## 📫 Connect with Me
 
-- mroostpoor@gmail.com
+✉️ mroostpoor@gmail.com
+[-](https://icons8.com/icon/13930/linkedin) https://www.linkedin.com/in/mina-roostapour-d/
 
   
