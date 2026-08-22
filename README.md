@@ -113,6 +113,6 @@ Norwegian  🟪⬜⬜⬜⬜⬜
 
 
 <a href="https://www.linkedin.com/in/mina-roostapour-d/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="icons8-linkedin.svg" >
 </a>
   
