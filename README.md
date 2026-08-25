@@ -14,7 +14,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## Technical Skills
 
-**Programming Languages**
+**Programming Languages**   <img src="icons/Python-logo.png" width="20" align="absmiddle">
 - Python
 - JavaScript
 - SQL
