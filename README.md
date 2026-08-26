@@ -20,7 +20,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 - SQL
 - R
 
-**Web Development**  <img src="icons/react.jpg" width="22" align="absmiddle"> <img src="icons/html.png" width="22" align="absmiddle"> <img src="icons/css.png" width="12" align="absmiddle"> <img src="icons/nodejs-logo.svg" width="28" align="absmiddle">
+**Web Development**  <img src="icons/re.png" width="22" align="absmiddle"> <img src="icons/html.png" width="22" align="absmiddle"> <img src="icons/css.png" width="12" align="absmiddle"> <img src="icons/nodejs.png" width="22" align="absmiddle">
 - React
 - HTML
 - CSS
