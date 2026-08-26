@@ -14,7 +14,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## Technical Skills
 
-**Programming Languages**  <a href="https://github.com/Miniii-git"><img src="icons/Python-logo.png" width="18" align="absmiddle"></a><a href="https://github.com/Miniii-git"><img src="icons/js.jpg" width="23" align="absmiddle"></a><a href="https://github.com/Miniii-git"><img src="icons/sql.webp" width="20" align="absmiddle"></a><a href="https://github.com/Miniii-git"><img src="icons/Rlogo.svg" width="20" align="absmiddle"></a>
+**Programming Languages**  <a href="https://github.com/Miniii-git"><img src="icons/Python-logo.png" width="18" align="absmiddle"></a> <a href="https://github.com/Miniii-git"><img src="icons/js.jpg" width="23" align="absmiddle"></a> <a href="https://github.com/Miniii-git"><img src="icons/sql.webp" width="20" align="absmiddle"></a> <a href="https://github.com/Miniii-git"><img src="icons/Rlogo.svg" width="20" align="absmiddle"></a>
 - Python
 - JavaScript
 - SQL
