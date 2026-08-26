@@ -14,13 +14,13 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## Technical Skills
 
-**Programming Languages**   <img src="icons/Python-logo.png" width="18" align="absmiddle"> <img src="icons/js.jpg" width="22" align="absmiddle"> <img src="icons/sql.webp" width="20" align="absmiddle"> <img src="icons/Rlogo.svg" width="20" align="absmiddle">
+**Programming Languages**   <img src="icons/Python-logo.png" width="18" align="absmiddle"> <img src="icons/js.jpg" width="23" align="absmiddle"> <img src="icons/sql.webp" width="20" align="absmiddle"> <img src="icons/Rlogo.svg" width="20" align="absmiddle">
 - Python
 - JavaScript
 - SQL
 - R
 
-**Web Development**
+**Web Development**  <img src="icons/react.jpg" width="20" align="absmiddle"> <img src="icons/html.png" width="20" align="absmiddle"> <img src="icons/css.png" width="20" align="absmiddle"> <img src="icons/nodejs-logo.svg" width="20" align="absmiddle">
 - React
 - HTML
 - CSS
