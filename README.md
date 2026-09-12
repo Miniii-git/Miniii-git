@@ -57,7 +57,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## Featured Data Science Projec
 
-- 🩺 AIFA Medicine Data Engineering
+- 🩺 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering"> AIFA Medicine Data Engineering </a>
 - 🌏 Air Quality Forecasting With Dashboard
 - 💧 Smart Water Management
 - 🧠 Twitter Sentiment Analysis
