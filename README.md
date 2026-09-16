@@ -67,15 +67,14 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## Featured Software Projects
 
--  🪙  <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Cryptocurrency Market Tracker</a>
--  🎮  <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Games Library</a>
--  🌦️  <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Weather App</a>
--  🔠  <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Quiz App</a>
--  🛍️  <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Mini Store App</a>
+-  🪙  <a href="https://github.com/Miniii-git/Crypto-App-React" style="color: black;">Cryptocurrency Market Tracker</a>
+-  🎮  <a href="https://github.com/Miniii-git/LibraryOfGames-App-React" style="color: black;">Games Library</a>
+-  🌦️  <a href="https://github.com/Miniii-git/WeatherAppB" style="color: black;">Weather App</a>
+-  🔠  <a href="https://github.com/Miniii-git/QuizGameMini" style="color: black;">Quiz App</a>
 
 ## Projects Related to Mobile Development
 
--  📝 ToDo  App
+-  📝 <a href="https://github.com/Miniii-git/TodoAppMini" style="color: black;">ToDo  App</a>
 
 ## Currently Learning
 
