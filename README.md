@@ -58,11 +58,11 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 ## Featured Data Science Projec
 
 - 🩺 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;"> AIFA Medicine Data Engineering </a>
-- 🌏 Air Quality Forecasting With Dashboard
-- 💧 Smart Water Management
-- 🧠 Twitter Sentiment Analysis
-- 🦴 Osteoporosis Risk Prediction
-- 🐟 Aquarium Object Detection
+- 🌏 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Air Quality Forecasting With Dashboard</a>
+- 💧 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Smart Water Management</a>
+- 🧠 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Twitter Sentiment Analysis</a>
+- 🦴 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Osteoporosis Risk Prediction</a>
+- 🐟 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Aquarium Object Detection</a>
 
 
 ## Featured Software Projects
