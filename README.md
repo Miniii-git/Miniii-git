@@ -62,7 +62,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 - 💧 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Smart Water Management</a>
 - 🧠 <a href="https://github.com/Miniii-git/twitter-sentiment-analysis" style="color: black;">Twitter Sentiment Analysis</a>
 - 🦴 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Osteoporosis Risk Prediction</a>
-- 🐟 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Aquarium Object Detection</a>
+- 🐟 <a href="https://github.com/Miniii-git/aquarium-object-detection" style="color: black;">Aquarium Object Detection</a>
 
 
 ## Featured Software Projects
