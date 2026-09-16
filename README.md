@@ -57,8 +57,8 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 ## Featured Data Science Projec
 
-- 🩺 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;"> AIFA Medicine Data Engineering </a>
-- 🌏 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Air Quality Forecasting With Dashboard</a>
+- 🩺 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">AIFA Medicine Data Engineering </a>
+- 🌏 <a href="https://github.com/Miniii-git/air-quality-forecasting-dashboard" style="color: black;">Air Quality Forecasting With Dashboard</a>
 - 💧 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Smart Water Management</a>
 - 🧠 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Twitter Sentiment Analysis</a>
 - 🦴 <a href="https://github.com/Miniii-git/aifa-medicine-data-engineering" style="color: black;">Osteoporosis Risk Prediction</a>
