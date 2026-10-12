@@ -80,8 +80,7 @@ I have academic backgrounds in Mathematics and Financial Mathematics, with hands
 
 - Advanced Machine Learning
 - AI Applications
-- Software Engineering
-- Italian 🇮🇹
+
 
 ## Interests
 
